@@ -63,12 +63,6 @@ AI was used for creating professional documentation:
 - **Markdown tables**: Formatting model performance comparison tables
 - **Emoji usage**: Adding visual indicators (✅, ⚠️, 📊, 🎯) for better readability
 - **Code blocks**: Proper syntax highlighting for bash and python snippets
-- **Project structure tree**: Creating ASCII tree representation of directory structure
-
-#### Report Writing
-- **LaTeX-style formatting**: Creating professional-looking equations and formulas
-- **Table alignment**: Ensuring consistent column widths and alignment
-- **Section organization**: Structuring methods, results, and discussion sections
 
 #### Jupyter Notebook
 - **Output formatting**: Making print statements more readable
