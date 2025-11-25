@@ -42,18 +42,6 @@ AI was extensively used to understand and implement functions from specialized P
 - **`gamma`**: Comprehending minimum loss reduction for tree splitting
 
 
-#### Matplotlib/Seaborn Visualization
-- **`plt.tight_layout()`**: Preventing label overlap in complex plots
-- **ROC curve plotting**: Proper formatting of false positive rate vs true positive rate
-
-### 2. Parameter Tuning Guidance
-
-AI helped us understand which hyperparameters to tune and reasonable ranges:
-
-- **Learning rates**: Why [0.01, 0.05, 0.1, 0.2] is a good range for gradient boosting
-- **Tree depth**: Understanding the trade-off between depth and overfitting
-- **Ensemble sizes**: Why 100-300 estimators is typically sufficient
-- **Regularization**: How C parameter in logistic regression affects model complexity
 
 ### 3. Documentation and Formatting
 
@@ -68,14 +56,7 @@ AI was used for creating professional documentation:
 - **Output formatting**: Making print statements more readable
 
 
-
-
-## What AI Did NOT Do
-
-To be clear about the boundaries of AI assistance:
-
-
-### What We Did:
+### What We Did (not AI):
 - Conceptualize the entire project based on the Doench 2016 paper
 - Select appropriate models based on literature review
 - Design the advanced feature engineering pipeline (polynomial interactions, MI selection)
@@ -103,15 +84,6 @@ However, we ensured that:
 - We **learned** the underlying concepts, not just copied solutions
 
 ---
-
-## Ethical Considerations
-
-We believe this use of AI is:
-
-- **Transparent**: Fully documented in this file
-- **Educational**: Enhanced our learning rather than replacing it
-- **Appropriate**: Used for understanding tools, not generating original research
-- **Honest**: We can defend and explain all work independently
 
 
 ## Conclusion
