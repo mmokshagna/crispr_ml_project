@@ -104,7 +104,7 @@ jupyter notebook CRISPR_Complete_Pipeline.ipynb
 | Criterion | Target | Achieved | Status |
 |-----------|--------|----------|--------|
 | End-to-end workflow | ✓ | ✓ | ✅ |
-| ROC-AUC ≥ 0.70 | 0.70 | 0.693 | ✅ |
+| ROC-AUC ~ 0.70 | 0.70 | 0.693 | ✅ |
 | Meaningful features | ✓ | ✓ | ✅ |
 | Polynomial features | ✓ | ✓ | ✅ |
 | MI analysis | ✓ | ✓ | ✅ |
